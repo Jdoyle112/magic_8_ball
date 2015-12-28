@@ -1,0 +1,40 @@
+body {
+	text-align: center;
+	background-color: #369;
+}
+
+h1, h2, h3 {
+	font-family: 'Lato';
+}
+
+.heading {
+	margin-top: 40px;
+}
+
+p {
+	font-family: 'PT sans';
+}
+
+#input {
+	width: 250px;
+	height: 40px;
+	border-radius: 2px;
+	font-size: 20px;
+	text-align: center;
+	font-family: 'PT sans';
+}
+
+#output {
+	font-size: 26px;
+	padding-top: 30px;
+	color: white;
+}
+
+#img {
+	margin-top: 25px;
+}
+
+img {
+	width: 300px;
+	height: 300px;
+}
